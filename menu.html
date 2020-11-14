@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="assets/css/style.css" type="text/css">
+    <title>60 Mls of Coffee</title>
+</head>
+<body>
+ <!-- Navigation Bar ( with 5 pages (HOME/ OUR STORY/ MENU/ GALLERY/ CONTACT)) -->
+
+ <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top" id="color">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link btn btn-outline-secondary badge-pill" href="index.html" type="button"  data-toggle="tooltip" data-placement="top" title="Tooltip on top"><i class="fas fa-home"></i>Home <span class="sr-only">(current)</span></a>
+      </li> 
+      <li class="nav-item">
+        <a class="nav-link btn btn-outline-secondary badge-pill" href="ourstory.html"><i class="fas fa-history"></i> Our Story</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link btn btn-outline-secondary badge-pill" href="menu.html"><i class="fas fa-coffee"></i> Menu</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link btn btn-outline-secondary badge-pill" href="gallery.html"><i class="far fa-images"></i> Gallery</a>
+      <li class="nav-item">
+        <a class="nav-link btn btn-outline-secondary badge-pill" href="contact.html"><i class="fas fa-id-card-alt"></i> Contact</a>
+      </li>
+    <li class="nav-item mr-2 d-block d-sm-none "><a class="nav-link" href="">Sign In / Sign Up</a></li>
+      </li>
+    </ul>
+        </div>
+        <div class="d-none d-md-block">
+            <p class="navbar-text my-auto mr-2"><i>More awesome about Coffee in Here </i></p>
+            <button class="btn btn-small btn btn-secondary badge-pill" data-toggle="modal" data-target="#signUpModal">Sign Up!</button>
+        </div>
+    </nav>
+
+     
+     
+     <!-- Footer -->
+<footer class="page-footer font-small mdb-color lighten-3 pt-4">
+<hr class="featurette-divider">
+
+<div class="container">
+    <p class="float-right">
+      <a class="diff-color btn btn-secondary badge-pill" href="#">Back to top</a>
+    </p>
+    <div class="row">
+<div class="col-lg-2 col-md-12 mb-4">
+<!--Image-->
+<div class="view overlay z-depth-1-half">
+        <img src="assets/images/footer.jpg" class="img-fluid" alt="">
+          </div>
+        </div>
+    <div class="col-lg-2 col-md-6 mb-4">
+<!--Image-->
+        <div class="view overlay z-depth-1-half">
+          <img src="assets/images/footer1.jpg" class="img-fluid" alt="">
+        </div>
+    </div>
+<div class="col-lg-2 col-md-6 mb-4">
+<!--Image-->
+        <div class="view overlay z-depth-1-half">
+          <img src="assets/images/footer2.jpg" class="img-fluid" alt="">
+          </div>
+        </div>
+<div class="col-lg-2 col-md-12 mb-4">
+<!--Image-->
+        <div class="view overlay z-depth-1-half ">
+          <img src="assets/images/carousel1.jpg" class="img-fluid" alt="">
+        </div>
+     </div>
+<div class="col-lg-2 col-md-6 mb-4">
+<!--Image-->
+        <div class="view overlay z-depth-1-half d-none d-md-inline">
+          <img src="assets/images/carousel2.jpg" class="img-fluid" alt="">
+        </div>
+    </div>
+<div class="col-lg-2 col-md-6 mb-4">
+<!--Image-->
+        <div class="view overlay z-depth-1-half d-none d-md-inline">
+          <img src="assets/images/quotes.jpg" class="img-fluid" alt="">
+        </div>
+     </div>
+   </div>
+</div> 
+<!-- Copyright -->
+<div class="footer-copyright text-center py-3">© 2020 Copyright:
+    <a href="60mls.com/"> 60mls.com</a>
+  </div>
+  <!-- Copyright -->
+</footer>
+
+<!-- Log In Form -->
+<div class="modal" tabindex="-1" role="dialog" id="signUpModal">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Sign Up To 60MlsCoffee</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+          <form>
+  <div class="form-group">
+            <label for="exampleInputEmail1">Email address</label>
+             <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+          <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+  </div>
+  <div class="form-group">
+              <label for="password">Password</label>
+               <input type="password" class="form-control" id="password" placeholder="Password">
+  </div>
+        <div class="form-group">
+              <label for="repeatpassword">Repeat Password</label>
+               <input type="password" class="form-control" id="repeatpassword" placeholder="Repeat Password">
+  </div>
+      <button type="submit" class="btn btn-info badge-pill">Submit</button>
+</form>
+        </div>
+      
+     </div>
+  </div>
+</div>
+
+
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script> 
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script> 
+</body>
+</html>
