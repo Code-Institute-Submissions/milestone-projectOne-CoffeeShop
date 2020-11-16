@@ -14,6 +14,7 @@ body, html {
   border: 0.2px solid whitesmoke;
   padding: 5px;
   font-weight: lighter;
+  letter-spacing: 1px;
 }
 
 .container-wrapper--quotes {
@@ -21,7 +22,6 @@ margin-bottom: 5px;
 margin-top: 25px;
 letter-spacing: 1px;
 background-color:  rgb(214, 194, 177);
-
 }
 
 .container-wrapper--grey {
@@ -30,10 +30,13 @@ background-color: rgb(122, 121, 120);
 letter-spacing: 1.5px;
 margin-bottom:
 margin-top: 25px;
+font-weight: 900;
+
 }
 
 .Speciality-Roast {
     margin-top: 25px;
+    color: rgb(207, 153, 99);
 }
 
 .block-divider--short {
@@ -41,4 +44,9 @@ margin-top: 25px;
     height: 2px;
     border: 0;
     background-color: rgb(89, 109, 109);
+}
+
+.fab, .fa-instagram, .fa-lg,  .mr-4, .color-icons{
+    color: rgb(207, 153, 99);
+    letter-spacing: 3px;
 }
