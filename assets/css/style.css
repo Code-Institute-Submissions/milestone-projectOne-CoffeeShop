@@ -50,3 +50,18 @@ font-weight: 900;
     color: rgb(207, 153, 99);
     letter-spacing: 3px;
 }
+
+/*--- Our Story ---*/
+
+.callout-container-ourstory {
+    height: 65vh;
+    background: url("../images/jumbotron-backgroundpic.jpg") no-repeat bottom right fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
