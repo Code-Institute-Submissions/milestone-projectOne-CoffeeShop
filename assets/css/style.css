@@ -150,6 +150,26 @@ font-weight: 900;
     line-height: 19px;
 }
 
+/*-- CONTACT --*/
+
+.background-image-contact {
+    background: url("../images/logo-pic.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.footer-paragraph {
+    letter-spacing: 5px;
+    margin-bottom: 45px;
+    font-weight: 300;
+}
+
 /*--- Jumbotron ----*/
 
 .jumbotron {
@@ -157,7 +177,7 @@ font-weight: 900;
 }
 
 .jumbotron-header {
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 /*--- Footer ----*/
@@ -167,11 +187,7 @@ background-color: #504c54;
 font-family: 'Cormorant Garamond', sans-serif;
 }
 
-.footer-paragraph {
-    letter-spacing: 3px;
-    margin-bottom: 45px;
-    font-weight: 100;
-}
+
 
 /*--- BUTTONS ----*/
 
