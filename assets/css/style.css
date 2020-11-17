@@ -87,7 +87,7 @@ font-weight: 900;
 /*--- Menu  ----*/
 
 .menubackground-image {
-    background: url("../images/menu-background.jpg");
+    background: url("../images/logo-pic.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -119,6 +119,35 @@ font-weight: 900;
     color: #faa500;
     background-color: transparent;
     letter-spacing: 0.7px;
+}
+
+.menu-name-color {
+    color: white;
+    font-size: xx-large;
+    font-weight: bolder;
+    letter-spacing: 2.5px;
+
+}
+
+/*--- GALLERY----*/
+
+.gallery-background-picture {
+    background: url("../images/menu-background.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.gallery-name-color {
+    color: white;
+    font-weight: bolder;
+    letter-spacing: 3.5px;
+    line-height: 19px;
 }
 
 /*--- Jumbotron ----*/
