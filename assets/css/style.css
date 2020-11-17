@@ -98,6 +98,29 @@ font-weight: 900;
     position: relative;
 }
 
+.text-center {
+    color:rgb(165, 104, 44);
+    padding-top: 5px;
+    padding-bottom: 15px;
+    letter-spacing: 1px;
+}
+
+.transparent-div {
+    background-color: transparent;
+}
+
+.card-text--color {
+    color:rgb(253, 239, 245);
+    line-height: -0.2px;
+    letter-spacing: 0.9px;
+}
+
+.transparent-alert {
+    color: #faa500;
+    background-color: transparent;
+    letter-spacing: 0.7px;
+}
+
 /*--- Jumbotron ----*/
 
 .jumbotron {
@@ -119,4 +142,15 @@ font-family: 'Cormorant Garamond', sans-serif;
     letter-spacing: 3px;
     margin-bottom: 45px;
     font-weight: 100;
+}
+
+/*--- BUTTONS ----*/
+
+.button-color {
+    letter-spacing: 3px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    background: #b9b3b3;
+    background-color: #948f8f;
 }
