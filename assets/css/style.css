@@ -46,6 +46,18 @@ font-weight: 900;
     color: rgb(207, 153, 99);
 }
 
+.green-leave {
+    color: #666600;
+}
+
+.medium-leave {
+    color: #2b2626;
+}
+
+.dark-leave {
+    color: rgb(0,0,0);
+}
+
 .block-divider--short {
     width: 75px;
     height: 2px;
