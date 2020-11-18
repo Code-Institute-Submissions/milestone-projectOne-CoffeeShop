@@ -111,6 +111,7 @@ font-weight: 900;
     padding-top: 5px;
     padding-bottom: 15px;
     letter-spacing: 1px;
+    
 }
 
 .transparent-div {
@@ -199,11 +200,28 @@ font-family: 'Cormorant Garamond', sans-serif;
 
 /*--- BUTTONS ----*/
 
-.button-color {
+.badge-pill--color {
     letter-spacing: 3px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
     background: #b9b3b3;
     background-color: #948f8f;
+}
+
+/*--- Google Map ---*/
+
+.google-map-size {
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+}
+
+.google-map-size iframe {
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
 }
