@@ -12,35 +12,96 @@ Last thing, wanted the footer on 4 out of five pages to be similar and just on c
 The place is designed for a small family business wich are in love with the magic of coffeine and the process of baking their own cakes as well a small their own Roastery.
 The website is easy to navigate, so it is easy for customer to find his needs buy navigate from page to page, where he will encounter a well elaborated information, to locate, to call, find online presence and what he can enjoy buy visiting the place. 
 
-## User Experience (UX)
+# User Experience (UX)
 
--   ### User stories
+-   ## User stories
    
-   -   #### First Time Visitor Goals
-    1.As first time quest,I want to know what this website is about.
-    2.As fist time quest, I want to have easy,positive and intuitive web browsing Experience.
-    3.As first time quest, I need to understand what kind of product they are selling, where are they and how to locate them as well as 
+   -   ### First Time Visitor Goals
+
+    1. As potential  quest,I want to know what this website is about.
+    2. As potential quest, I want to have easy,positive and intuitive web browsing Experience.
+    3. As potential  quest, I need to understand what kind of product they are selling, where are they and how to locate them as well as 
     reviews on social platform from quest wich already Experienced the place.
-    4.As first time quest, I want to know when I can use their services.
-    5.As first time quest, I want to know in what price range the business operates.
+    4. As potential  quest, I want to know when I can use their services.
+    5. As potential  quest, I want to know in what price range the business operates.
 
+-   ### Returning Visitor Goals
      
-     -   #### Returning Visitor Goals
-     
-     1.As Returning quest, I want to know if the place has special offers / prices.
-     2.As Returning quest, I want to know if the place still have the same standards.
-     3.As Returning quest, I want to know if the opening hours still the same.
-     4.As Returning quest, I want to know if the place has a way of place a compliment / complain.
-     5.As Returning quest, I want to know if there are special events for customers.
+     1. As decided quest, I want to know if the place has special offers / prices.
+     2. As decided quest, I want to know if the place still have the same standards.
+     3. As decided quest, I want to know if the opening hours still the same.
+     4. As decided quest, I want to know if the place has a way of place a compliment / complain.
+     5. As decided quest, I want to know if there are special events for customers.
+     6. As decided quest, I want to understand the ordering process, so I know what steps I need to take.
 
 
--   ### Design
+-   ## Design
 
      -   #### Colour Scheme
      - The colors used in the project changes from page to page in most of the cases.
      - Most used colors are grey, white, light gold and gold.
 
- -   #### Typography
+-   ### Typography
 
-     -The main font used in the project is Cormorant Garamond, with sans-serif as fallback, in case of any issue that may appear.
-     -Cormorant Garamond, is a good fit font for a project like coffee shop , it looks clean and easy to read.
+     - The main font used in the project is Cormorant Garamond, with sans-serif as fallback, in case of any issue that may appear.
+     - Cormorant Garamond, is a good fit font for a project like coffee shop , it looks clean and easy to read.
+
+-   ### Imagery
+
+    - I chose to place Images on all pages.
+    - Images are important for a coffee house.
+    - When you travel to the website you can see from the beginning how images point to place atmosphere.
+    - All images have a task to point to strong parts of the coffee house and for eye catching.
+
+<h1 align="center"><img src="assets/images/carousel1.jpg"></h1>
+
+* ## Wireframes
+
+## Features 
+ <h2> Each page of the site contains a responsive <strong>Navigation bar</strong> wich will be on the left side and will collapse in burger icon on mobile. 
+ On the left side of the navigation bar you find a <strong>Sign Up</strong> button ,wich will be active just on big screens.
+ All pages contain a <strong>Footer gallery</strong> with <strong>Social Links </strong> ,<strong>Copyright</strong>, and <strong>Back to Top</strong>button.
+ The last page <strong>Footer</strong> is different then first 4 with information like : <em>Address</em>, <em>Contact Number</em>, <em>Working Hours</em> and <em>Google Map</em>.
+ 
+ Every page has their won heros. The reason of that is simple, the website travelers should have a positive feeling on navigating on site and to catch their attention.
+  </h2>
+
+
+## Technologies Used
+
+### Languages Used
+
+### Frameworks, Libraries & Programs Used
+
+## Testing
+
+### Testing User Stories from User Experience (UX) Section
+
+-   #### First Time Visitor Goals
+
+
+-   #### Returning Visitor Goals
+
+### Further Testing
+
+### Known Bugs
+
+## Deployment
+
+### GitHub Pages
+
+### Forking the GitHub Repository
+
+### Making a Local Clone
+
+## Credits
+
+### Code
+
+
+### Content
+
+
+### Media
+
+### Acknowledgements
