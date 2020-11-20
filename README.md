@@ -298,5 +298,9 @@ He was very optimistic and open for all my quastions, so by doing that he indire
 He helped me very much and I would like to thank him for that.
 
 <strong><em>NOTE: I would recomend Gerry Mcbride like mentor for future students.</em></strong>
+- ## Code Institute.
+Want as well to thank code Institute for amazing opportunity and great course.
+You have an amazing team and very powerful student support.
+Thank You.
 
 P.P.S For future students who may or may not read this message. When the moment came and you think that you are not good for this and want to give up, remember have patience,believe in yourself and keep going,everything will be ok, just Do not give up.
