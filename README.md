@@ -57,6 +57,7 @@ The website is easy to navigate, so it is easy for customer to find his needs bu
 
 * ## Wireframes
 
+
 ## Features 
 
   Each page of the site contains a responsive <strong>Navigation bar</strong> wich will be on the left side and will collapse in burger icon on mobile. 
