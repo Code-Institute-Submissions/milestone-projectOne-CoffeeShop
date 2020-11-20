@@ -205,9 +205,8 @@ On <em>Tablet</em> devices all information stays exactly the same as on bigger s
  - * Also I will check the menu page, and will find the special prices of the day.
  - * Buy goind to the end of the page I will find the <em>Sunday Experience</em> day and special house blend.
 
-<h1 align="center"><img src="visitorgoals/frequentcustomer.png"></h1>
-
  6. * As a convienced and already decided customer I will like to know more information then it is displayed on site.
+ <h1 align="center"><img src="visitorgoals/frequentcustomer.png"></h1>
  - * So buy traveling to <Strong> contact us </strong> page, I will encounter the contact us form with a helpful meeting message.
  - * Also I can find buy scrolling down the contact page, on the footer the Phone number if I will decide to call the coffee house.
  - * Being on the footer teritory, and being convienced of my interest for the business I can easily access the social media links and subscribe for more of the coffee house News.
