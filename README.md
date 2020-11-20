@@ -193,10 +193,12 @@ On <em>Tablet</em> devices all information stays exactly the same as on bigger s
 
  -   #### Frequent User Goals
 
- 5. * As a convienced customer , I want to know if there are new promitions , special prices on the site.
+5. * As a convienced customer , I want to know if there are new promitions , special prices on the site.
  - * The traveler will already be comfortable using the site and with zero efort will find out in the , about us page there are a callout button for visiting the Roastery.
  - * Also I will check the menu page, and will find the special prices of the day.
  - * Buy goind to the end of the page I will find the <em>Sunday Experience</em> day and special house blend.
+
+<h1 align="center"><img src="ReadMe/frequentcustomer.png"></h1>
 
  6. * As a convienced and already decided customer I will like to know more information then it is displayed on site.
  - * So buy traveling to <Strong> contact us </strong> page, I will encounter the contact us form with a helpful meeting message.
@@ -206,24 +208,83 @@ On <em>Tablet</em> devices all information stays exactly the same as on bigger s
 
 ### Further Testing
 
+- * The Project was tested on a series of browsers:
+- * [Google Chrome](https://www.google.com/chrome/)
+- * [Microsoft Edge](https://www.microsoft.com/en-us/edge)
+- * [Safari Browsers](https://www.apple.com/safari/)
+-  #### Viewed on different devices :
+- * Laptop
+- * Iphone X
+- * Iphone X max
+- * Iphone 7 plus
+
+- #### I send my project to different people to check it and to point the mistakes wich I miss.
+ * A good amount of time it took to check pages links were correctly done.
+ * Carousel to work proper.
+ * Proper use of buttons.
+ * For album division cards to be responsive on all devices and the alerts to be visible.
+ * On small devices for NavigationBar to collapse correctly and the links between pages to work good.
+
 ### Known Bugs
+
+#### On Tablet
+-  On some Tablets the Home page, jumbotron carousel messages is hard to read.
+-  On some Tablets on menu page, the last divisions with buttons, one button going out from card body and interact with next card button.
+#### On Desktop
+- In some browsers the social links is not opening.
+
 
 ## Deployment
 
 ### GitHub Pages
 
+#### This Project was developed with [Gitpod](https://www.gitpod.io/) and was Pushed to [GitHub](https://github.com).
+- 1. Open <strong>GitHub</strong> site.
+- 2. Log In into Your account
+- 3. Navigate to your Repository
+- 4. Pick Project Repository
+- 5. On the right side , click on Settings
+- 6. Scroll to GitHub Pages
+- 7. Click the <em>None</em> or <em>Branch</em> drop-down menu and select a publishing source.
+- 8. Use the drop-down menu to select a folder for your publishing source.
+- 9. Click Save 
+
 ### Forking the GitHub Repository
+- * With forking we can produce a personal copy of someone else's project.So We can make changes to the project without affecting the original Project.
+- 1. Log In to GitHub
+- 2. Locate the Repository 
+- 3. On top right side click On Fork button.
+- 4. Now You have a copy of Repository
 
 ### Making a Local Clone
 
-## Credits
+
+# Credits
 
 ### Code
-
-
+- On the first page carousel code came from  [W3schools](https://www.w3schools.com/bootstrap/bootstrap_carousel.asp)
+- Sign Up Form came from Code Institute project [Whiskey Drop](https://romanstr-code.github.io/whiskey-drop/).
+- Gallery footer came from [Mdbootstrap](https://mdbootstrap.com/docs/jquery/navigation/footer/)
+- Image thumbnail came from [StartBootstrap](https://startbootstrap.com/snippets/thumbnail-gallery)
+- Contact Us Form came from Code Institute project made with teacher [Resume](https://romanstr-code.github.io/resume-project-/)
+- The Google map for last page footer I imported from [Mdbootstrap](https://mdbootstrap.com/docs/jquery/javascript/google-maps/)
+- [Bootstrap4](https://getbootstrap.com/docs/4.0/getting-started/download/) was used for the entire project, in purpose of responsives and grid sistem.
+- 
 ### Content
-
-
-### Media
+- Foto used in the project were used from a free stock videos and foto site [Pexels](https://www.pexels.com/)
+- Foto were used as well from [Unsplash](https://unsplash.com/)
+- Speciality blend division Content were copied from [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
+- All the rest Content of the project was wrriten buy me. 
 
 ### Acknowledgements
+
+- ## My Mentor
+- I want to thank my mentor for the positivity during the project process.From first call, to last call he encourage
+me. We talked about my idea at first call, and he already had good amount of profesional guidance how should the project look like.
+Truly energetic and open for help at any point of project process.
+He was very optimistic and open for all my quastions, so by doing that he indirectly push me to not stop working and belive that I can Truly can finish the project.
+He helped me very much and I would like to thank him for that.
+
+<strong><em>NOTE: I would recomend Gerry Mcbride like mentor for future students.</em></strong>
+
+P.P.S For future students who may or may not read this message. When the moment came and you think that you are not good for this and want to give up, remember have patience,believe in yourself and keep going,everything will be ok, just Do not give up.
