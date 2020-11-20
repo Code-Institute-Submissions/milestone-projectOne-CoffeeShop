@@ -263,7 +263,13 @@ On <em>Tablet</em> devices all information stays exactly the same as on bigger s
 - 4. Now You have a copy of Repository
 
 ### Making a Local Clone
-
+- 1. Navigate to GitHub main page Repository.
+- 2. Find Green Code button and click it.
+- 3. To clone the repository using HTTPS you need to pic "Clone with HTTPS".
+- 4. Open the terminal
+- 5. Change your current working directory to a location you want cloned directory.
+- 6. Type <strong>git clone</strong> and then paste the URL you copied on step Nr3
+- 7. Press enter to create your local clone.
 
 # Credits
 
