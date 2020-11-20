@@ -61,7 +61,7 @@ The website is easy to navigate, so it is easy for customer to find his needs bu
 <h1 align="center"><img src="wireframes/ourstorypage.PNG"></h1>
 <h1 align="center"><img src="wireframes/menupage.PNG"></h1>
 <h1 align="center"><img src="wireframes/gallerypage.PNG"></h1>
-<h1 align="center"><img src="wireframes/contactusclearpage.PNG"></h1>
+<h1 align="center"><img src="wireframes/contactuspage.PNG"></h1>
 
 
 ## Features 
