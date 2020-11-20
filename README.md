@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Milestone Project One CoffeeShop </h1>
 
 [View My Milestone Project here.](https://romanstr-code.github.io/milestone-projectOne-CoffeeShop/)
@@ -289,3 +290,8 @@ He helped me very much and I would like to thank him for that.
 <strong><em>NOTE: I would recomend Gerry Mcbride like mentor for future students.</em></strong>
 
 P.P.S For future students who may or may not read this message. When the moment came and you think that you are not good for this and want to give up, remember have patience,believe in yourself and keep going,everything will be ok, just Do not give up.
+=======
+<h1 align="center">Milestone Project One CoffeeShop</h1>
+
+![](images/menufood.jpg)
+>>>>>>> 5ffba3c85103b11a69820fa6981e757fddf544f7
