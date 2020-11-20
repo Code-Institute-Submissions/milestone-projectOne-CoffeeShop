@@ -61,7 +61,7 @@ The website is easy to navigate, so it is easy for customer to find his needs bu
 <h1 align="center"><img src="wireframes/ourstorypage.PNG"></h1>
 <h1 align="center"><img src="wireframes/menupage.PNG"></h1>
 <h1 align="center"><img src="wireframes/gallerypage.PNG"></h1>
-<h1 align="center"><img src="wireframes/contactuspage.PNG"></h1>
+<h1 align="center"><img src="wireframes/contactusclearpage.PNG"></h1>
 
 
 ## Features 
@@ -176,7 +176,7 @@ On <em>Tablet</em> devices all information stays exactly the same as on bigger s
 ### Testing User Stories from User Experience (UX) Section
 
 -   #### First Time Visitor Goal
-<h1 align="center"><img src="ReadMe/visitor.png"></h1>
+<h1 align="center"><img src="visitorgoals/visitor.png"></h1>
 
  1. * Being a first time visitor to the page I want easy to understand the purpose off the site I'm browsing.
  - * First thing what website quest will encounter when visiting the site is cleanleness of navigation bar and how smoth it is.
@@ -189,7 +189,7 @@ On <em>Tablet</em> devices all information stays exactly the same as on bigger s
  - * Continuing my journey down the page I will find nicely formed message when we open with a nice foto meeting me.Here I will find out all about the place .
 
 -    #### Returning Visitor Goals
-<h1 align="center"><img src="ReadMe/returnvisitor.png"></h1>
+<h1 align="center"><img src="visitorgoals/returnvisitor.png"></h1>
 
  3. * As a potential visitor I would like to know what range of products and beverage does the place have.
  - * So by clicking on menu button, we will go to a colorful page, with all kinds of best seller product.
@@ -205,7 +205,7 @@ On <em>Tablet</em> devices all information stays exactly the same as on bigger s
  - * Also I will check the menu page, and will find the special prices of the day.
  - * Buy goind to the end of the page I will find the <em>Sunday Experience</em> day and special house blend.
 
-<h1 align="center"><img src="ReadMe/frequentcustomer.png"></h1>
+<h1 align="center"><img src="visitorgoals/frequentcustomer.png"></h1>
 
  6. * As a convienced and already decided customer I will like to know more information then it is displayed on site.
  - * So buy traveling to <Strong> contact us </strong> page, I will encounter the contact us form with a helpful meeting message.
