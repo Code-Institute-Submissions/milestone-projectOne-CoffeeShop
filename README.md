@@ -57,7 +57,11 @@ The website is easy to navigate, so it is easy for customer to find his needs bu
 
 * ## Wireframes
 
-
+<h1 align="center"><img src="wireframes/homepage.PNG"></h1>
+<h1 align="center"><img src="wireframes/ourstorypage.PNG"></h1>
+<h1 align="center"><img src="wireframes/menupage.PNG"></h1>
+<h1 align="center"><img src="wireframes/gallerypage.PNG"></h1>
+<h1 align="center"><img src="wireframes/contactuspage.PNG"></h1>
 
 
 ## Features 
@@ -162,11 +166,11 @@ On <em>Tablet</em> devices all information stays exactly the same as on bigger s
 
 ### Results of Testing
 
- - ![Home]()
- - ![Oustory]()
- - ![Menu]()
- - ![Gallery]()
- - ![Contact]()
+ - [Home Results](https://github.com/romanstr-code/milestone-projectOne-CoffeeShop/tree/master/TestingResults)
+ - [Oustory Results](https://github.com/romanstr-code/milestone-projectOne-CoffeeShop/tree/master/TestingResults)
+ - [Menu Results](https://github.com/romanstr-code/milestone-projectOne-CoffeeShop/tree/master/TestingResults)
+ - [Gallery Results](https://github.com/romanstr-code/milestone-projectOne-CoffeeShop/tree/master/TestingResults)
+ - [Contact Results](https://github.com/romanstr-code/milestone-projectOne-CoffeeShop/tree/master/TestingResults)
 
 
 ### Testing User Stories from User Experience (UX) Section
